@@ -23,3 +23,5 @@ CMakeCache.txt
 *.log
 *.tlog
 build
+/.vs/opencv/v16
+/samples/winrt/FaceDetection/.vs/FaceDetection/v16
